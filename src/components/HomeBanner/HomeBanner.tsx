@@ -23,9 +23,7 @@ const HomeBanner = (props: Props) => {
                 <br />
                 with sintac
               </h3>
-              <a className="main_btn" href="#">
-                get a quote
-              </a>
+            
             </div>
           </div>
         </Parallax>
